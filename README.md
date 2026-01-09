@@ -11,8 +11,6 @@
 | Repo 规范         | [repo-rule.md](./repo-rule.md)                 |
 | 设备关联规则      | [device-rules.md](./device-rules.md)           |
 | 权限管理          | [permissions.md](./permissions.md)             |
-| 必含文档要求      | [documents.md](./documents.md)                 |
-| 代码评审          | [code-review.md](./code-review.md)             |
 | 学术成果-代码关联 | [academic-code.md](./academic-code.md)         |
 
 ## 📝 规范更新日志
