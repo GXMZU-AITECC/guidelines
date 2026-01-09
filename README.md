@@ -8,8 +8,7 @@
 
 | 规范类型          | 文档链接                                       |
 | ----------------- | ---------------------------------------------- |
-| Repo 规范         | [repo-rule.md](./repo-rule.md)             |
-| 分支管理          | [branch-management.md](./branch-management.md) |
+| Repo 规范         | [repo-rule.md](./repo-rule.md)                 |
 | 设备关联规则      | [device-rules.md](./device-rules.md)           |
 | 权限管理          | [permissions.md](./permissions.md)             |
 | 必含文档要求      | [documents.md](./documents.md)                 |
