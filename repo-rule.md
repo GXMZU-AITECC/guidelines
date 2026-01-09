@@ -28,3 +28,6 @@
   - Required approvals：**1**
   - [x] Dismiss stale pull request approvals when new commits are pushed
   - [x] Require conversation resolution before merging
+     
+### README 规范
+参考 (documents)[./documents.md]
