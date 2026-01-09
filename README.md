@@ -9,6 +9,7 @@
 | 规范类型          | 文档链接                                       |
 | ----------------- | ---------------------------------------------- |
 | Repo 规范         | [repo-rule.md](./repo-rule.md)                 |
+| 开发规范          |  [develop-rule.md](./develop-rule.md)          |
 | 设备关联规则      | [device-rules.md](./device-rules.md)           |
 | 权限管理          | [permissions.md](./permissions.md)             |
 | 学术成果-代码关联 | [academic-code.md](./academic-code.md)         |
