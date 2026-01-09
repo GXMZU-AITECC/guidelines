@@ -8,20 +8,18 @@
 
 | 规范类型          | 文档链接                                       |
 | ----------------- | ---------------------------------------------- |
-| Repo 命名         | [repo-naming.md](./repo-naming.md)             |
-| 分支管理          | [branch-management.md](./branch-management.md) |
+| Repo 规范         | [repo-rule.md](./repo-rule.md)                 |
+| 开发规范          |  [develop-rule.md](./develop-rule.md)          |
 | 设备关联规则      | [device-rules.md](./device-rules.md)           |
 | 权限管理          | [permissions.md](./permissions.md)             |
-| 必含文档要求      | [documents.md](./documents.md)                 |
-| 代码评审          | [code-review.md](./code-review.md)             |
 | 学术成果-代码关联 | [academic-code.md](./academic-code.md)         |
 
 ## 📝 规范更新日志
 
 | 更新日期   | 更新内容          | 更新人 |
 | ---------- | ----------------- | ------ |
-| 2026-01-08 | 初始化核心版规范  | XXX    |
-| 后续更新   | 补充/修改 XX 规则 | XXX    |
+| 2026-01-08 | 初始化核心版规范  | 刘永蘅   |
+| 2026-01-09   | 简化README | 陆秀赢    |
 
 ## 🛠 规范维护说明
 
