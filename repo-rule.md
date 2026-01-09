@@ -30,4 +30,4 @@
   - [x] Require conversation resolution before merging
      
 ### README 规范
-参考 (documents)[./documents.md]
+参考 [documents.md](./documents.md)
