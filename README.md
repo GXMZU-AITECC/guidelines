@@ -10,6 +10,7 @@
 | ----------------- | ---------------------------------------------- |
 | Repo 规范         | [repo-rule.md](./repo-rule.md)                 |
 | 开发规范          |  [develop-rule.md](./develop-rule.md)          |
+| PR 规范           |  [pr-rule.md](./pr-rule.md)                    |
 | 设备关联规则      | [device-rules.md](./device-rules.md)           |
 | 权限管理          | [permissions.md](./permissions.md)             |
 | 学术成果-代码关联 | [academic-code.md](./academic-code.md)         |
@@ -19,7 +20,8 @@
 | 更新日期   | 更新内容          | 更新人 |
 | ---------- | ----------------- | ------ |
 | 2026-01-08 | 初始化核心版规范  | 刘永蘅   |
-| 2026-01-09   | 简化README | 陆秀赢    |
+| 2026-01-09   | 简化 README | 陆秀赢    |
+| 2026-07-20   | 添加 pr 规范 | 冼佳炜    |
 
 ## 🛠 规范维护说明
 
