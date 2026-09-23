@@ -9,7 +9,7 @@
 | **A** | Repo 规范（命名 / 分支模型 / 分支保护） | [repo-rule.md](./repo-rule.md) |
 | **B** | 开发规范（流程 / 分支命名 / 注释风格） | [develop-rule.md](./develop-rule.md) |
 | **C** | PR 规范（目标分支 / 标题 / 描述 / 评审与合并） | [pr-rule.md](./pr-rule.md) |
-| **D** | 权限管理（角色 / 申请） | [permissions.md](./permissions.md) |
+| **D** | 权限管理（角色 / 申请 / 内部资产与保密） | [permissions.md](./permissions.md) |
 | **E** | 仓库必含文档 | [documents.md](./documents.md) |
 | **F** | 硬件设备关联规则 | [device-rules.md](./device-rules.md) |
 | **G** | 学术成果-代码关联 | [academic-code.md](./academic-code.md) |
@@ -25,6 +25,7 @@
 | ---------- | ----------------------------------------------------------------- | ------ |
 | 2026-01-08 | 初始化核心版规范                                                  | XXX    |
 | 2026-09-23 | 全规范章节编号化（A–G）；组织更名（GXMZUAILAB → GXMZU-AITECC）；修复死链与文件编码；统一评审口径 | 陈自超 |
+| 2026-09-23 | 新增 D3 内部资产与保密条款（违规上报学院指导教师） | 陈自超 |
 
 ## 维护说明
 
