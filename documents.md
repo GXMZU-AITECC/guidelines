@@ -1,8 +1,8 @@
-# E · Repo 必含文档要求（强制遵守）
+# E · Repo 必含文档要求
 
-每个 Repo 必须包含以下文档，新手按模板填写即可：
+每个 Repo 必须包含 E1、E2（强制）；E3 为软建议。新手按模板填写即可：
 
-## E1 README.md（核心）
+## E1 README.md（强制）
 
 ### 新手模板
 
@@ -30,11 +30,11 @@
 姓名 + 邮箱
 ```
 
-## E2 LICENSE
+## E2 LICENSE（强制）
 
 优先选择 MIT 许可证（宽松，便于学术交流）。
 
-## E3 环境依赖文件
+## E3 环境依赖文件（软建议）
 
 - Python 项目：必含 requirements.txt（列出所有依赖包 + 版本，如 torch==2.1.0）；
 - Conda 项目：可选补充 environment.yml（便于一键创建环境）；
