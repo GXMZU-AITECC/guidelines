@@ -14,9 +14,9 @@
 
 ## B3 代码注释
 
-函数需要写详细的注释，说清楚具体功能、参数和返回值，方便别人阅读和维护。
+函数需要写注释，说清楚**功能、参数、返回值**三件事即可，方便别人阅读和维护。注释风格参照下方示例，写到同样的颗粒度就够了，**不要求更详尽**；按所用语言的惯例写。
 
-参考写法：
+Python 用 docstring：
 
 ```python
 def evaluate(self, expression: str, mode: str) -> Union[int, float]:
@@ -36,6 +36,21 @@ def evaluate(self, expression: str, mode: str) -> Union[int, float]:
     return self._compute(expression, use_int_div)
 ```
 
+JavaScript 用 JSDoc：
+
+```js
+/**
+ * 计算数学表达式并返回结果。
+ *
+ * @param {string} expression 要计算的数学表达式字符串，如 "1+2*3"
+ * @returns {number} 计算结果
+ * @throws {Error} 表达式为空或语法错误时抛出
+ */
+function evaluate(expression) {
+  // ...
+}
+```
+
 ## B4 可运行
 
-提交代码前确保代码可运行。
+代码应尽量保持可运行；开发期间功能未完成（WIP）时，允许代码暂时跑不通，在 PR 描述「测试」一节如实说明现状即可。
