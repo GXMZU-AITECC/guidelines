@@ -10,6 +10,7 @@
    - 正例：`calculator-py-windows`
 3. 只使用 `-` 作为分隔符
 4. 命名优先级：`方向` → `项目名称` → `标签`（均可选）
+5. 硬件设备类项目用「设备品牌-型号」，型号写全：`unitree-g1`、`unitree-go2-ruicom`、`yundrone-sunray150`（纯软件项目不套这条）
 
 ## A2 分支模型（强制）
 
