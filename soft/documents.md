@@ -1,8 +1,8 @@
 # E · Repo 必含文档要求
 
-每个 Repo 必须包含 E1、E2（强制）；E3 为软建议。新手按模板填写即可：
+每个项目仓必须包含 E1、E2（对应 T11、T12）；E3 为软建议。新手按模板填写即可：
 
-## E1 README.md（强制）
+## E1 README.md（→ T11）
 
 ### 新手模板
 
@@ -15,7 +15,7 @@
 
 ## 设备依赖
 
-参考 device-rules.md 填写
+参考 [soft/device.md](./device.md) 填写
 
 ## 环境配置
 
@@ -30,7 +30,7 @@
 姓名 + 邮箱
 ```
 
-## E2 LICENSE（强制）
+## E2 LICENSE（→ T12）
 
 默认选 MIT（宽松，便于学术交流）。代码若派生自带许可证的项目（如 YOLOv5、Apollo 的 GPL/Apache），**沿用上游许可证**并在 README 注明派生来源，不得改成 MIT。
 
