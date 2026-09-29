@@ -34,7 +34,7 @@ PR 打回的**唯一**依据。以下每一条自身即完整规则，不必另�
 | **T6** | 标题必须以 `feat:` 或 `fix:` 开头 |
 | **T7** | 描述必须写全三段：目的、改动、测试 |
 | **T8** | 自查清单必须逐条勾选 |
-| **T9** | 必须在 Issue 占题（姓名 ＋ fork 链接 ＋ 分支名）之后才开工 |
+| **T9** | 先提 Issue 再动手：功能提案写清「要什么、怎么用、验收标准、不做什么」并声明占题；没有提案直接来的 PR 不收 |
 | **T10** | 一个 PR 只做一件事：不顺手重构、不碰无关文件、不夹带构建产物与日志 |
 | **T11** | 项目仓 README 必含五段：项目简介、设备依赖、环境配置、使用方法、维护人员 |
 | **T12** | 项目仓必须有 LICENSE，默认 MIT；派生 GPL / Apache 代码沿用上游许可证 |
@@ -52,6 +52,7 @@ PR 打回的**唯一**依据。以下每一条自身即完整规则，不必另�
 | [soft/repo.md](./soft/repo.md) | 仓库命名、分支模型、分支保护配置 |
 | [soft/develop.md](./soft/develop.md) | 开发流程、占题与防撞车、注释与可运行 |
 | [soft/pr.md](./soft/pr.md) | PR 标题、描述、自查、评审与合并的操作细节 |
+| [soft/issue.md](./soft/issue.md) | Issue 规范：功能提案与问题报告怎么写、怎么占题 |
 | [soft/permissions.md](./soft/permissions.md) | 角色层级、权限申请、保密出处 |
 | [soft/documents.md](./soft/documents.md) | README 模板、LICENSE、依赖文件 |
 | [soft/device.md](./soft/device.md) | 硬件项目：设备信息标注、资料归档 |
